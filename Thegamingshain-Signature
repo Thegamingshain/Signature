@@ -1,0 +1,38 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <title>TheGamingShain</title>
+  <meta charset="utf-8">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+  <link href="/monolith/thegamingshain/stylesheet.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/2c4b435336.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<div class="container" style="padding-top: 3rem;">
+  <div class="container">
+    <div class="row">
+      <div class="col-2">
+        <img id="user-picture" src="https://monolithservers.com/forums/data/avatars/l/11/11551.jpg?1618715076" width="175" style="border-radius: 100%;">
+      </div>
+      <div class="col">
+        <p id="user-name" class="display-2" style="display: inline; color: white;">TheGamingShain</p><br>
+        <span id="user-roles" class="badge bg-success">MRP Administrator</span> <span class="badge text-dark" style="background-color: #fcc900;">Marketing Team</span> <span class="badge text-dark" style="background-color: #f5e9a4;">Event Team</span> <span class="badge text-white" style="background-color: #3a4eff;">Police Command</span>  <br><br>
+        <div id="user-info-bar" class="bg-dark text-white" style="opacity: 75%; padding: 0.5rem;" width="75%" height="5%"><b>MRP Administrator</b><span style="float: right;"><a class="text-white" href="https://monolithservers.com/forums/members/thegamingshain.11551/">Monolith Forums</a> · shain#1818</div> 
+      </div>      
+    </div>
+  </div>
+ <br>
+ <hr>
+ <!--Signature Content Starts Here, don't modify anything above this.-->
+ <!--If you made any changes, create a pull request to submit your changes to the signature, or message Jet#9451 to make any changes. --> 
+
+<img src="https://monolithservers.com/forums/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FaC0dJd7.png&hash=fc20c747296530701fd5ec72d628628c">
+
+ <!--Signature Content Ends Here, don't modify anything below this.-->
+</div>
+<p id="text-footer" style="position: absolute; bottom: 0; left: 1rem;" class="text-secondary">The Monolith Logo & Other Thriving Venture Assets belongs to Thriving Ventures AB, Thriving Ventures AB is not associated with this website.<br>(Website created by Jetaime Alexandria a.k.a Jet)</p>
+</body>
+</html>
